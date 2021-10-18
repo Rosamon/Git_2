@@ -17,3 +17,9 @@ double multiply_func(double a, double b)
 {
 	return a * b;
 }
+
+//fourth function - subtraction
+double subtract_func(double a, double b)
+{
+	return (a - b);
+}
