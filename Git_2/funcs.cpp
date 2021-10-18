@@ -6,3 +6,8 @@ double add_func(double a, double b) {
 	return res;
 };
 
+//second function - division 
+double divide_func(double a, double b) {
+	double res = a / b;
+	return res;
+};
