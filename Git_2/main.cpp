@@ -1,4 +1,5 @@
 // main.cpp Главный файл с функцией запуска и оператором switch
+// version 1.2
 #include <iostream>
 #include "funcs.h"
 using namespace std;
