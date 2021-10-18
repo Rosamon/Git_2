@@ -18,7 +18,7 @@ int main()
 	cout << "3 - multiplication(A*B)" << endl;
 	cout << "4 - division(A/B)" << endl << endl;
 	cin >> choice;
-	cout << endl;
+
 	double result = 0;
 
 	switch (choice)
