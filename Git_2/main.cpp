@@ -14,8 +14,8 @@ int main()
 	int choice = 0;
 	cout << "Please, select an operation." << endl;
 	cout << "1 - addition(A+B)" << endl;
-	cout << "2 - \" +\"" << endl;
-	cout << "3 - \" +\"" << endl;
+	cout << "2 - \" +\"" << endl; //subtraction
+	cout << "3 - multiplication(A*B)" << endl;
 	cout << "4 - division(A/B)" << endl;
 	cin >> choice;
 
@@ -31,7 +31,7 @@ int main()
 		cout << "This feature is currently unavailable" << endl;
 		break;
 	case 3:
-		cout << "This feature is currently unavailable" << endl;
+		cout << "This feature is currently unavailable"<< multiply_func(a,b) << endl;
 		break;
 	case 4:
 		result = divide_func(a, b);
