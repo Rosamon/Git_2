@@ -11,3 +11,9 @@ double divide_func(double a, double b) {
 	double res = a / b;
 	return res;
 };
+
+//third function - multiplication
+double multiply_func(double a, double b)
+{
+	return a * b;
+}

@@ -3,5 +3,5 @@
 
 double add_func(double, double);
 double divide_func(double, double);
-
+double multiply_func(double, double);
 #endif // __FUNCS_H__
